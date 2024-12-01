@@ -1,0 +1,5 @@
+#Komentarz
+#Wed Aug 28 23:28:51 CEST 2024
+author-name=bartosz-kołakowski
+height=800
+width=1200
